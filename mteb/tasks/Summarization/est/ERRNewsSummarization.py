@@ -24,7 +24,7 @@ class ERRNewsSummarization(AbsTaskSummarization):
         task_subtypes=["Discourse coherence"],
         license="CC-by-4.0",
         socioeconomic_status="mixed",
-        annotations_creators="derived",
+        annotations_creators="expert-annotated",
         dialect=[],
         text_creation="created",
         bibtex_citation="""article{henryabstractive,
