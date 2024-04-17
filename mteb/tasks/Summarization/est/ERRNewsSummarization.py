@@ -21,7 +21,7 @@ class ERRNewsSummarization(AbsTaskSummarization):
         date=("2023-03-10", "2023-03-10"),
         form=["spoken", "written"],
         domains=["News"],
-        task_subtypes="Discourse coherence",
+        task_subtypes=["Discourse coherence"],
         license="CC-by-4.0",
         socioeconomic_status="mixed",
         annotations_creators="derived",
