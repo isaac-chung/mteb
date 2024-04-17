@@ -6,8 +6,8 @@ from mteb.abstasks.TaskMetadata import TaskMetadata
 
 class ERRNewsSummarization(AbsTaskSummarization):
     metadata = TaskMetadata(
-        name="ERRNews",
-        description="News Article Summary Summarization dataset from ERR News broadcasts.",
+        name="ERRNewsSummarization",
+        description="News Stories Summarization dataset from ERR News broadcasts.",
         reference="https://github.com/Yale-LILY/SummEval",
         dataset={
             "path": "TalTechNLP/ERRnews",
