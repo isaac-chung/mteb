@@ -1,0 +1,25 @@
+{
+  "dataset_revision": "e698d1df52766d73ae1cc569dfc622527c329a08",
+  "mteb_dataset_name": "SlovakSentimentClassification",
+  "mteb_version": "1.6.12",
+  "test": {
+    "accuracy": 0.8353166986564299,
+    "accuracy_stderr": 0.040764247945187564,
+    "ap": 0.9618940687562111,
+    "ap_stderr": 0.007095265983351029,
+    "evaluation_time": 3.43,
+    "f1": 0.7346124657936842,
+    "f1_stderr": 0.04073700604064459,
+    "main_score": 0.8353166986564299
+  },
+  "validation": {
+    "accuracy": 0.8344827586206897,
+    "accuracy_stderr": 0.041240721514336214,
+    "ap": 0.9584723675269075,
+    "ap_stderr": 0.010056840043625745,
+    "evaluation_time": 5.51,
+    "f1": 0.7415615136760014,
+    "f1_stderr": 0.04157968800385639,
+    "main_score": 0.8344827586206897
+  }
+}
